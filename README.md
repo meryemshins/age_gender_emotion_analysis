@@ -40,8 +40,10 @@ live_age_gender_emotion_detection.py
 
 ## Results:
 Here are the screenshots of our project!
+
 ![image](https://github.com/meryemshins/age_gender_emotion_analysis/assets/101747014/fcd40ac7-e311-4746-b6f8-09bad644e862)
 ![image](https://github.com/meryemshins/age_gender_emotion_analysis/assets/101747014/1a3321ae-9612-4d1d-b08b-d3026a5e32b9)
 ![image](https://github.com/meryemshins/age_gender_emotion_analysis/assets/101747014/f3e3ee68-70c0-4551-9aeb-de962829576b)
 ![image](https://github.com/meryemshins/age_gender_emotion_analysis/assets/101747014/343a7d9b-a258-4de4-9275-d8f29c080c98)
+
 If you like this job, please help me and my friend by giving some stars.
